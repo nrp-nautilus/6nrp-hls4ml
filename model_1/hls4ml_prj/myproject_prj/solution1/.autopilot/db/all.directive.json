@@ -1,0 +1,18 @@
+{"sourceFile": [{
+      "name": "",
+      "directive": [{
+          "functionName": "myproject",
+          "label": "",
+          "functionLabel": "",
+          "id": "1",
+          "sourceFile": "\/home\/xilinx\/6nrp-hls4ml\/model_1\/hls4ml_prj\/build_prj.tcl",
+          "sourceLine": "183",
+          "pragma": {
+            "name": "TOP",
+            "option": [{
+                "name": "name",
+                "value": "myproject"
+              }]
+          }
+        }]
+    }]}
