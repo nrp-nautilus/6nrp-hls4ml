@@ -1,6 +1,6 @@
 # FPGA Applications on Nautilus: Particle Physics Application
 
-### [Sixth National Research Platform (6NRP) Workshop]()
+### [Sixth National Research Platform (6NRP) Workshop](https://drive.google.com/file/d/1fEFOtFvdv_qNSk_pYfgiDAqxPppFX0GW/view?usp=sharing)
 
 **[San Diego Supercomputer Center](https://www.sdsc.edu/)**  
 **January 28th, 2025**
@@ -73,6 +73,8 @@ Jets are spray of particles that serve as experimental signatures of quarks, glu
 
 #### Goal: 
 Classify the jets into 5 different categories
+
+---
 
 ### Step 6: Convert the trained model to HLS using `hls4ml`
 
