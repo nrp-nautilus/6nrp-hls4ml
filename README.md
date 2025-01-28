@@ -1,6 +1,6 @@
 # FPGA Applications on Nautilus: Particle Physics Application
 
-### [Sixth National Research Platform (6NRP) Workshop](https://drive.google.com/file/d/1fEFOtFvdv_qNSk_pYfgiDAqxPppFX0GW/view?usp=sharing)
+### [Sixth National Research Platform (6NRP) Workshop](https://na.eventscloud.com/website/79913/home/)
 
 **[San Diego Supercomputer Center](https://www.sdsc.edu/)**  
 **January 28th, 2025**
@@ -14,7 +14,8 @@ Email Contact: [mfsada@ucsd.edu](mailto:mfsada@ucsd.edu) and [ekhoda@ucsd.edu](m
 
 This is the second part of the hands-on tutorial on FPGA Applications on Nautilus. In this par, we will train a simple Deep Neural Network (DNN) with `TensorFlow` + `Keras` and convert the model to into a format such that it can run on an FPGA using a compile tool called [`hls4ml`](https://fastmachinelearning.org/hls4ml/).
 
-The slides are avilable [here]().
+#### Slides:
+The slides are avilable [here](https://drive.google.com/file/d/1fEFOtFvdv_qNSk_pYfgiDAqxPppFX0GW/view?usp=sharing).
 
 ---
 ### Step 1: Sign in to 6NRP JupyterHub
